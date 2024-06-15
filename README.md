@@ -1,0 +1,2 @@
+# javascirpt-concepts
+javascript notes
